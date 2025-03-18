@@ -58,6 +58,7 @@ Syntax: rmdir <directory name>
 The cd command is used to change the current directory.
 
 Syntax: cd <directory name>
+
 ![image](https://github.com/1808charitha/Ex-01-Linux-Commands/assets/132996838/19fe100a-f515-4866-9573-6879fa277ef3)
 
 
@@ -85,6 +86,7 @@ Syntax: cp <existing file name> <new file name>
 The gedit is a general-purpose text editor. It can be used to create and edit all kinds of text files.
 
 Syntax: gedit file_name
+
 ![image](https://github.com/1808charitha/Ex-01-Linux-Commands/assets/132996838/7a544174-c379-4e25-aa5c-b63fbc43e69c)
 
 
@@ -103,6 +105,7 @@ Syntax: su <user name>
 The mv command is used to move a file or a directory form one location to another location.
 
 Syntax: mv <file name> <directory path>
+
 ![image](https://github.com/1808charitha/Ex-01-Linux-Commands/assets/132996838/faf3e9d5-2ad0-4318-9180-ee839e7ad46a)
 
 
@@ -130,6 +133,7 @@ Syntax: head <file name>
 The tail command is similar to the head command. The difference between both commands is that it displays the last ten lines of the file content. It is useful for reading the error message.
 
 Syntax: tail <file name>
+
 ![image](https://github.com/1808charitha/Ex-01-Linux-Commands/assets/132996838/6b9ea3ba-a82b-45ac-93fc-f4e94fbd6e61)
 
 
@@ -147,6 +151,7 @@ Syntax: id
 The grep is the most powerful and used filter in a Linux system. The 'grep' stands for "global regular expression print." It is useful for searching the content from a file. Generally, it is used with the pipe.
 
 Syntax: command | grep <search word>
+
 ![image](https://github.com/1808charitha/Ex-01-Linux-Commands/assets/132996838/f630a18b-99d1-4c1b-887b-e0dec6c95d3e)
 
 
@@ -184,6 +189,7 @@ Syntax: chown owner_name file_name
 The make command is used for building and maintaining group of program.
 
 Syntax: make [-f makefile][options]…….[targets]….
+
 ![image](https://github.com/1808charitha/Ex-01-Linux-Commands/assets/132996838/c6330223-124c-4c9b-a69d-d8c18dce6984)
 
 
@@ -226,6 +232,7 @@ Syntax: gzip <file1> <file2> <file3>..
 The sort command is used to sort files in alphabetical order.
 
 Syntax:sort <file name>
+
 ![image](https://github.com/1808charitha/Ex-01-Linux-Commands/assets/132996838/d3b9c042-76ac-49e6-8921-20593a2aa984)
 
 
